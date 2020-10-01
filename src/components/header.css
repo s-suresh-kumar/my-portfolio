@@ -24,6 +24,7 @@
 
 .my-hero h1, .my-hero h2 {
   color: white;
+  text-align:center;
 }
 
 .my-hero h1 {
