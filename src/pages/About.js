@@ -9,12 +9,12 @@ function About() {
     <div>
       <Header backgroundImage="https://i.imgur.com/obgpMIf.jpeg">
         <h1>Hello</h1>
-        <h2>I am Suresh Kumar</h2>
+        <h2>Welcome To My Portfolio</h2>
       </Header>
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>Welcome To My Portfolio</h1>
+            <h1>About Me</h1>
           </Col>
         </Row>
         <Row>
