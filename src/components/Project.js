@@ -14,10 +14,10 @@ function Project(props) {
             <strong>Title:</strong> {props.name}
           </li>
           <li>
-            <strong>Occupation:</strong> {props.occupation}
+            <a target="_blank" className="btn btn-primary" href={props.githubRepo} role="button">Code Repo</a>
           </li>
           <li>
-            <strong>Location:</strong> {props.location}
+            <a target="_blank" className="btn btn-primary" href={props.deployLink} role="button">Deployed App</a>
           </li>
         </ul>
       </div>

@@ -34,8 +34,8 @@ class Portfolio extends React.Component {
               key={project.id}
               name={project.name}
               image={project.image}
-              occupation={project.occupation}
-              location={project.location}
+              githubRepo={project.githubRepo}
+              deployLink={project.deployLink}
             />
           ))
         }
