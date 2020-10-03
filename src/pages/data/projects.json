@@ -37,7 +37,7 @@
   {
     "id": 6,
     "name": "Weather Dash",
-    "image": "/assets/thumbnails/weather-dashboard-thumbnail.PNG",
+    "image": "/assets/thumbnails/weather-dashboard-thumbnail.png",
     "githubRepo": "https://github.com/s-suresh-kumar/weatherDashboard",
     "deployLink": "https://s-suresh-kumar.github.io/weatherDashboard/"
   }
