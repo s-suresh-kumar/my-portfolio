@@ -25,7 +25,7 @@ class Portfolio extends React.Component {
   render() {
     return (
       <Wrapper>
-        <Title>Projects List</Title>
+        <Title>Some Of My Projects</Title>
         {
           this.state.projects.map(project => (
             <Project

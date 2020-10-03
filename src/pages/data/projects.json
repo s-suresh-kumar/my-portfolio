@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "name": "Workplace-Directory",
+    "name": "Employee Directory",
     "image": "/assets/thumbnails/workplace-directory-thumbnail.JPG",
     "githubRepo": "https://github.com/s-suresh-kumar/workplace-directory",
     "deployLink": "https://s-suresh-kumar.github.io/workplace-directory/"
   },
   {
     "id": 2,
-    "name": "Project-Team-Generator",
-    "image": "/assets/thumbnails/project-team-generator-thumbnail.JPG",
-    "githubRepo": "https://github.com/s-suresh-kumar/projectTeamGenerator",
-    "deployLink": "https://github.com/s-suresh-kumar/projectTeamGenerator"
+    "name": "Fitness Tracker",
+    "image": "/assets/thumbnails/fitness-tracker-thumbnail.JPG",
+    "githubRepo": "https://github.com/s-suresh-kumar/fitnessTracker",
+    "deployLink": "https://fast-ridge-87581.herokuapp.com/"
   },
   {
     "id": 3,
-    "name": "Note-Taker",
+    "name": "Note Taker App",
     "image": "/assets/thumbnails/note-taker-thumbnail.JPG",
     "githubRepo": "https://github.com/s-suresh-kumar/noteTaker",
     "deployLink": "https://agile-everglades-01445.herokuapp.com/"
   },
   {
     "id": 4,
-    "name": "Eat-Da-Burger",
+    "name": "Eat Da Burger",
     "image": "/assets/thumbnails/eat-da-burger-thumbnail.JPG",
     "githubRepo": "https://github.com/s-suresh-kumar/Eat-Da-Burger",
     "deployLink": "https://intense-hollows-80590.herokuapp.com/"
   },
   {
     "id": 5,
-    "name": "Art-Via-Music",
+    "name": "Art Via Music",
     "image": "/assets/thumbnails/art-via-music-thumbnail.JPG",
     "githubRepo": "https://github.com/s-suresh-kumar/ArtViaMusic",
     "deployLink": "https://s-suresh-kumar.github.io/ArtViaMusic/"
   },
   {
     "id": 6,
-    "name": "Weather-Dashboard",
+    "name": "Weather Dash",
     "image": "/assets/thumbnails/weather-dashboard-thumbnail.PNG",
     "githubRepo": "https://github.com/s-suresh-kumar/weatherDashboard",
     "deployLink": "https://s-suresh-kumar.github.io/weatherDashboard/"
