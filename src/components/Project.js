@@ -3,10 +3,11 @@ import "./project.css";
 
 function Project(props) {
   return (
-    <div className="card">
-      <div className="img-container table">
+    // console.log("Project.js PROPS", {props.image});
+    < div className="card" >
+      <div className="img-container">
         {/* <img alt={props.name} src={props.image} /> */}
-        <img alt={props.name} src={props.image} />
+        <img alt={props.name} src={process.env.PUBLIC_URL + props.image} />
       </div>
       <div className="content text-center">
         {/* <ul>
@@ -30,7 +31,7 @@ function Project(props) {
       {/* <span onClick={() => props.removeFriend(props.id)} className="remove">
         𝘅
       </span> */}
-    </div>
+    </div >
   );
 }
 

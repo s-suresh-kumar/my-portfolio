@@ -4,7 +4,7 @@
   height: 325px;
   margin: 1rem;
   position: relative;
-  width: 25%;
+  width: 50%;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
 }
@@ -62,6 +62,8 @@
 }
 
 .myYButton {
+margin-left:3px;
+	margin-top:20px;
 	box-shadow: 0px 1px 0px 0px #fff6af;
 	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
 	background-color:#ffec64;
@@ -87,6 +89,7 @@
 }
 
 .myGButton {
+	margin-top:20px;
 	box-shadow:inset 0px 1px 0px 0px #caefab;
 	background:linear-gradient(to bottom, #77d42a 5%, #5cb811 100%);
 	background-color:#77d42a;
