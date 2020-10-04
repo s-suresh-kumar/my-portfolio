@@ -18,7 +18,7 @@ export default class MyForm extends React.Component {
         action="https://formspree.io/f/moqpvgqb"
         method="POST"
       >
-        {/* <!-- add your custom form HTML here --> */}
+        <br />
         <label>Email:</label>
         <br />
         <input type="email" name="email" />
