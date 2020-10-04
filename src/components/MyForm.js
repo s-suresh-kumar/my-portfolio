@@ -1,6 +1,3 @@
-// Customize this 'myform.js' script and add it to your JS bundle.
-// Then import it with 'import MyForm from "./myform.js"'.
-// Finally, add a <MyForm/> element whereever you wish to display the form.
 
 import React from "react";
 
@@ -23,9 +20,13 @@ export default class MyForm extends React.Component {
       >
         {/* <!-- add your custom form HTML here --> */}
         <label>Email:</label>
+        <br />
         <input type="email" name="email" />
+        <br />
         <label>Message:</label>
-        <input type="text" name="message" />
+        <br />
+        <textarea rows="4" cols="50" type="text" name="message" />
+        <br />
         {status === "SUCCESS" ? <p>Thank you for sending the message!</p> : <button>Submit</button>}
         {status === "ERROR" && <p>Ooops! There was an error.</p>}
       </form>
