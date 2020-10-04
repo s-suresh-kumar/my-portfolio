@@ -17,6 +17,7 @@ function Contact() {
         Let me know of how
         I can serve year software needs. Would love to hear from you. Use the form below to contact me. I will get back to you as soon as I can.
       </p>
+      <br />
       <MyForm />
     </Wrapper >
   );
