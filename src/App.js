@@ -10,7 +10,7 @@ function App() {
 
   return (
     <Router>
-      <Redirect to="/" />
+      {/* <Redirect to="/" /> */}
       <div>
         <Navbar />
         <Route exact path="/" component={About} />
