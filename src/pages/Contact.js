@@ -12,13 +12,15 @@ function Contact() {
 
   return (
     <Wrapper>
-      <Title>Contact Form</Title>
-      <p>
-        Let me know of how
-        I can serve your software needs. Would love to hear from you. Use the form below to contact me. I will get back to you as soon as I can.
+      <div className="Container-fluid col-md-12">
+        <Title>Contact Form</Title>
+        <p>
+          Let me know of how
+          I can serve your software needs. Would love to hear from you. Use the form below to contact me. I will get back to you as soon as I can.
       </p>
-      <br />
-      <MyForm />
+        <br />
+        <MyForm />
+      </div>
     </Wrapper >
   );
 }

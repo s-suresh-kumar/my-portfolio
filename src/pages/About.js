@@ -3,11 +3,12 @@ import Header from "../components/Header";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+let imgName = "/assets/images/headerImage.jpeg";
 
 function About() {
   return (
-    <div>
-      <Header backgroundImage="https://i.imgur.com/obgpMIf.jpeg">
+    < div >
+      <Header backgroundImage={process.env.PUBLIC_URL + imgName}>
         <h1>Hello</h1>
         <h2>Welcome To My Portfolio</h2>
       </Header>
@@ -54,7 +55,7 @@ function About() {
           </Col>
         </Row>
       </Container>
-    </div>
+    </div >
   );
 }
 
