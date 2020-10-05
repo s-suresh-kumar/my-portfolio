@@ -1,5 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
+//import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
+import { HashRouter as Router, Route, Redirect } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
