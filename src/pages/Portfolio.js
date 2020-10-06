@@ -26,19 +26,25 @@ class Portfolio extends React.Component {
     return (
       <Wrapper>
         <Title>Projects</Title>
-        {
-          this.state.projects.map(project => (
-            <Project
-              // removeFriend={this.removeFriend}
-              id={project.id}
-              key={project.id}
-              name={project.name}
-              image={project.image}
-              githubRepo={project.githubRepo}
-              deployLink={project.deployLink}
-            />
-          ))
-        }
+
+        {/* <div className="row"> */}
+          {
+            this.state.projects.map(project => (
+
+              <Project
+                // removeFriend={this.removeFriend}
+                id={project.id}
+                key={project.id}
+                name={project.name}
+                image={project.image}
+                githubRepo={project.githubRepo}
+                deployLink={project.deployLink}
+              />
+
+            ))
+          }
+        {/* </div> */}
+
       </Wrapper >
     );
   }

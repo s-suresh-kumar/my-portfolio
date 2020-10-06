@@ -15,18 +15,18 @@ function About() {
         <h1>Hello</h1>
         <h2>Welcome To My Portfolio</h2>
         <div className="row">
-          <div className="card1 mb-1">
+          <div className="card1 ">
             <div className="card-body">
-              <h6>Contact Info</h6>
-              <hr className="pl-4 pr-4 mpb-2 abssolid" />
+              <h6 className="text-center">Contact Info</h6>
+              <hr className="pl-4 pr-4 mpb-1 abssolid" />
               <ul className="no-bullets">
                 <li>
                   <strong >Email:
                     <a className="tab4" href="mailto:sureshk01@gmail.com "> sureshk01@gmail.com</a></strong>
                 </li>
                 <li>
-                  <strong>Phone:
-                <a className="tab4">  919-760-3970</a></strong>
+                  <strong className="tab4">Phone:
+                  919-760-3970</strong>
                 </li>
                 <li>
                   <strong>Github:
