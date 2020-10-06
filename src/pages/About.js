@@ -22,7 +22,7 @@ function About() {
               <ul className="no-bullets">
                 <li>
                   <strong >Email:
-                    <a className="tab4" href="mailto:sureshk01@gmail.com "> sureshk01@gmail.com</a></strong>
+                    <a target="_blank" className="tab4" href="mailto:sureshk01@gmail.com "> sureshk01@gmail.com</a></strong>
                 </li>
                 <li>
                   <strong className="tab4">Phone:
@@ -30,21 +30,21 @@ function About() {
                 </li>
                 <li>
                   <strong>Github:
-                <a className="tab4" href="https://github.com/s-suresh-kumar"> s-suresh-kumar</a></strong>
+                <a target="_blank" className="tab4" href="https://github.com/s-suresh-kumar"> s-suresh-kumar</a></strong>
                 </li>
                 <li>
                   <strong>LinkedIn:
-                <a className="tab4" href="https://www.linkedin.com/in/suresh-s-kumar"> suresh-s-kumar</a>
+                <a target="_blank" className="tab4" href="https://www.linkedin.com/in/suresh-s-kumar"> suresh-s-kumar</a>
                   </strong>
                 </li>
                 <li>
                   <strong>Portfolio:
-                <a className="tab4" href="https://s-suresh-kumar.github.io/responsivePortfolio/portfolio.html">  my-
+                <a target="_blank" className="tab4" href="https://s-suresh-kumar.github.io/responsivePortfolio/portfolio.html">  my-
                   portfolio</a></strong>
                 </li>
                 <li>
                   <strong>Resume:
-                <a className="tab4" href="./assets/Resume-Suresh-Kumar-09-04-2020.pdf">  My resume</a></strong>
+                <a target="_blank" className="tab4" href="./assets/Resume-Suresh-Kumar-09-28-2020">  My resume</a></strong>
                 </li>
               </ul>
             </div>
