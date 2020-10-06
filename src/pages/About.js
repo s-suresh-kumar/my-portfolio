@@ -1,9 +1,12 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "../components/Header";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import "./about.css"
 let imgName = "/assets/images/headerImage.jpeg";
+
 
 function About() {
   return (
@@ -11,6 +14,42 @@ function About() {
       <Header backgroundImage={process.env.PUBLIC_URL + imgName}>
         <h1>Hello</h1>
         <h2>Welcome To My Portfolio</h2>
+        <div className="row">
+          <div className="card1 mb-1">
+            <div className="card-body">
+              <h6>Contact Info</h6>
+              <hr className="pl-4 pr-4 mpb-2 abssolid" />
+              <ul className="no-bullets">
+                <li>
+                  <strong >Email:
+                    <a className="tab4" href="mailto:sureshk01@gmail.com "> sureshk01@gmail.com</a></strong>
+                </li>
+                <li>
+                  <strong>Phone:
+                <a className="tab4">  919-760-3970</a></strong>
+                </li>
+                <li>
+                  <strong>Github:
+                <a className="tab4" href="https://github.com/s-suresh-kumar"> s-suresh-kumar</a></strong>
+                </li>
+                <li>
+                  <strong>LinkedIn:
+                <a className="tab4" href="https://www.linkedin.com/in/suresh-s-kumar"> suresh-s-kumar</a>
+                  </strong>
+                </li>
+                <li>
+                  <strong>Portfolio:
+                <a className="tab4" href="https://s-suresh-kumar.github.io/responsivePortfolio/portfolio.html">  my-
+                  portfolio</a></strong>
+                </li>
+                <li>
+                  <strong>Resume:
+                <a className="tab4" href="./assets/Resume-Suresh-Kumar-09-04-2020.pdf">  My resume</a></strong>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </Header>
       <Container style={{ marginTop: 30 }}>
         <Row>
