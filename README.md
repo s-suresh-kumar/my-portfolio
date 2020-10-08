@@ -7,7 +7,7 @@ My mobile responsive portfolio built using react. The app is bootstrapped with c
 
  - [Description](#Description)
  
- - [`Deployed Application`](#Deployed Application)
+ - [Deployed-Application](#Deployed-Application)
 
  - [Installation](#Installation)
 
@@ -23,7 +23,7 @@ My mobile responsive portfolio built using react. The app is bootstrapped with c
 
  This app is bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is front-end only application. It stores 6 thumbnails of my projects to showcase. It has mainly 3 pages, About, Portfolio and Contact.  Each of the page in itself is designed to be a react component. Of the 3 components, Portfolio is a class component where as the other two are functional component. There are several other components to render different parts of the HTML such as Title, Wrapper, Navbar, Header etc., most of them having their own css files as well. The projects' information are stored in json array and rendered using Project component. 
 
- ## Deployed Application
+ ## Deployed-Application
 
 The deployed application can be found at:  https://s-suresh-kumar.github.io/my-portfolio/
 
