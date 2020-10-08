@@ -1,70 +1,48 @@
-"# my-portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+# my-portfolio
 
-In the project directory, you can run:
+My mobile responsive portfolio built using react. The app is bootstrapped with create-react-app.
 
-### `npm start`
+ - [Description](#Description)
+ 
+ - [`Deployed Application`](#Deployed Application)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ - [Installation](#Installation)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+ - [Instructions](#Instructions)
 
-### `npm test`
+ - [License](#License)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ - [Tests](#Tests)
 
-### `npm run build`
+ - [Questions](#Questions)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ ## Description
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+ This app is bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is front-end only application. It stores 6 thumbnails of my projects to showcase. It has mainly 3 pages, About, Portfolio and Contact.  Each of the page in itself is designed to be a react component. Of the 3 components, Portfolio is a class component where as the other two are functional component. There are several other components to render different parts of the HTML such as Title, Wrapper, Navbar, Header etc., most of them having their own css files as well. The projects' information are stored in json array and rendered using Project component. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ ## Deployed Application
 
-### `npm run eject`
+The deployed application can be found at:  https://s-suresh-kumar.github.io/my-portfolio/
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+ ## Installation
+Just clone the repository, and issue `npm i` to install dependencies. To use locally, one has to issue `npm start` which will launch the app on the default browser. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ ## Instructions
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+From this website, one can learn about me and get contact info by visiting the About Page. There are links to LinkedIn, Github, Resume in the about page. Also email and Phone is listed.  By going to the Portfolio Page, some of my completed projects can be seen. Each of the project has the thumbnail, name of the project, links to github repository and link to deployed application. The contact page has a contact form which is implemented using formspree, it is functional and sends the filled form to my e-mail address.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+ ## Tests
 
-## Learn More
+ There are no automated tests written for this app. However it is easy to launch the app by going to https://s-suresh-kumar.github.io/my-portfolio/, Once the page is visited, it is straight forward to navigate the different pages of the app , learn about me and my portfolio as well as contact me. It has working contact form. It sends the email to my registered email address.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ ## Questions
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ Please send your questions via e-mail or via my github profile.
 
-### Code Splitting
+ suresh01@yahoo.com
+ [![Thumbnail](public/images/github.jpg)](https://github.com/s-suresh-kumar)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+ `
