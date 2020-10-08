@@ -43,6 +43,6 @@ From this website, one can learn about me and get contact info by visiting the A
  Please send your questions via e-mail or via my github profile.
 
  suresh01@yahoo.com
- [![Thumbnail](public/images/github.jpg)](https://github.com/s-suresh-kumar)
+ [![Thumbnail](public/assets/images/github.jpg)](https://github.com/s-suresh-kumar)
 
  `
