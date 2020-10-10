@@ -21,7 +21,7 @@
   background-size: 80.00px 80.00px;
   
 }
-.card > .img-container > img {
+.card > .img-container > a > img {
   margin-top:12px;
    width: 85% ;
    height: 85%;
