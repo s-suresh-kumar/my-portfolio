@@ -22,7 +22,7 @@
   color:black;
 }
  .card-body a:link {
-  color: darkgray;
+  color: black
 } 
 
 ul.no-bullets {
@@ -41,12 +41,12 @@ ul.no-bullets {
 } 
 
 .tab4 { 
-  color:darkgray;
+  color:black;
   tab-size: 8; 
 } 
 
 a:link {
-  color: darkgrey;
+  color: black;
   background-color: transparent;
   text-decoration: none;
   font-style: italic;
