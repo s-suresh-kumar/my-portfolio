@@ -32,11 +32,11 @@ Just clone the repository, and issue `npm i` to install dependencies. To use loc
 
  ## Instructions
 
-From this website, one can learn about me and get contact info by visiting the About Page. There are links to LinkedIn, Github, Resume in the about page. Also email and Phone is listed.  By going to the Portfolio Page, some of my completed projects can be seen. Each of the project has the thumbnail, name of the project, links to github repository and link to deployed application. The contact page has a contact form which is implemented using formspree, it is functional and sends the filled form to my e-mail address.
+From this website, one can learn about me and get contact info by visiting the About Page. There are links to LinkedIn, Github, Resume in the about page. Also email and Phone is listed.  By going to the Portfolio Page, some of my completed projects can be seen. Each of the project has the thumbnail, name of the project, links to github repository and link to deployed application. When I get more time for this, I will plan to make it even prettier. The contact page has a contact form which is implemented using formspree, it is functional and sends the filled form to my e-mail address. Again the contact page needs better styling than what is there right now. Plan to work on it when I can devote more time to it.
 
  ## Tests
 
- There are no automated tests written for this app. However it is easy to launch the app by going to https://s-suresh-kumar.github.io/my-portfolio/, Once the page is visited, it is straight forward to navigate the different pages of the app , learn about me and my portfolio as well as contact me. It has working contact form. It sends the email to my registered email address.
+ There are no automated tests written for this app. However it is easy to launch the app by going to https://s-suresh-kumar.github.io/my-portfolio/, Once the page is visited, it is straight forward to navigate the different pages of the app , learn about me and my portfolio as well as contact me. 
 
  ## Questions
 
