@@ -39,7 +39,7 @@ function About() {
                 </li>
                 <li>
                   <strong>Portfolio:
-                <a target="_blank" className="tab4" href="https://s-suresh-kumar.github.io/responsivePortfolio/portfolio.html">  my-                  portfolio</a></strong>
+                <a target="_blank" className="tab4" href="https://s-suresh-kumar.github.io/responsivePortfolio/portfolio.html">  my-portfolio</a></strong>
                 </li>
                 <li className="mb-2 pb-2">
                   <strong>Resume:

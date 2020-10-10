@@ -21,9 +21,9 @@
 .card-body {
   color:black;
 }
-/* .card-body a:link {
-  color: white;
-} */
+ .card-body a:link {
+  color: darkgray;
+} 
 
 ul.no-bullets {
   list-style-type: none; /* Remove bullets */
@@ -41,6 +41,7 @@ ul.no-bullets {
 } 
 
 .tab4 { 
+  color:darkgray;
   tab-size: 8; 
 } 
 
@@ -48,6 +49,7 @@ a:link {
   color: darkgrey;
   background-color: transparent;
   text-decoration: none;
+  font-style: italic;
 }
 
 a:visited {
