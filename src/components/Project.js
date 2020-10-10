@@ -6,7 +6,8 @@ function Project(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={props.name} src={process.env.PUBLIC_URL + props.image} />
+        <img alt={props.name} src={process.env.PUBLIC_URL + props.image} width="400" height="274" />
+
       </div>
       <div className="content text-center">
         <a target="_blank" className="myGButton" href={props.deployLink} role="button">{props.name}</a>
