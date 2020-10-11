@@ -63,3 +63,7 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+
+.myPic {
+  border-radius: 50%;
+}

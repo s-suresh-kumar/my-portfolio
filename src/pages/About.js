@@ -6,6 +6,7 @@ import Row from "../components/Row";
 import Col from "../components/Col";
 import "./about.css"
 let imgName = "/assets/images/headerImage.jpeg";
+let authorPic = "/assets/images/Suresh_150.jpg"
 
 
 function About() {
@@ -58,6 +59,7 @@ function About() {
         </Row>
         <Row>
           <Col size="md-12">
+            <img src={process.env.PUBLIC_URL + authorPic} className=" float-left myPic" alt="Author image" />
             <p>
               I live in Cary, North Carolina. I am a natural problem solver. I
               like to add new features in existing products and software,

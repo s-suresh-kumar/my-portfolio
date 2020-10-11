@@ -23,13 +23,12 @@
 }
 .card > .img-container > a > img {
   margin-top:12px;
-   width: 85% ;
-   height: 85%;
+  width: 85% ;
+  height: 85%;
     /* width:200px;
     height:400px; */
-    object-fit:cover;
-  border-radius: 3px;
-  
+  object-fit:cover;
+  border-radius: 3px; 
 }
 
 .card > .content {
