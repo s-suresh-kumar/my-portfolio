@@ -4,7 +4,7 @@ import "./footer.css";
 function Footer() {
   return (
     <footer className=" text-center footer">
-      <span>Suresh Kumar 2020</span>
+      <span>&copy; Copyright 2020 Suresh Kumar</span>
     </footer>
   );
 }
