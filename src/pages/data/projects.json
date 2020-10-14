@@ -29,7 +29,7 @@
   },
   {
     "id": 5,
-    "name": "My React Portfolio",
+    "name": "My Portfolio",
     "image": "/assets/thumbnails/my-portfolio-thumbnail.JPG",
     "githubRepo": "https://github.com/s-suresh-kumar/my-react-portfolio",
     "deployLink": "https://s-suresh-kumar.github.io/my-portfolio/"
