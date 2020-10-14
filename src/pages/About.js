@@ -23,7 +23,7 @@ function About() {
               <ul className="no-bullets mb-2 pb-2 ">
                 <li>
                   <strong >Email:
-                    <a target="_blank" className="tab4" href="mailto:sureshk01@gmail.com "> sureshk01@gmail.com</a></strong>
+                    <a target="_blank" rel="noopener noreferrer" className="tab4" href="mailto:sureshk01@gmail.com "> sureshk01@gmail.com</a></strong>
                 </li>
                 <li>
                   <strong className="tab4">Phone:
@@ -31,20 +31,20 @@ function About() {
                 </li>
                 <li>
                   <strong>Github:
-                <a target="_blank" className="tab4" href="https://github.com/s-suresh-kumar"> s-suresh-kumar</a></strong>
+                <a target="_blank" rel="noopener noreferrer" className="tab4" href="https://github.com/s-suresh-kumar"> s-suresh-kumar</a></strong>
                 </li>
                 <li>
                   <strong>LinkedIn:
-                <a target="_blank" className="tab4" href="https://www.linkedin.com/in/suresh-s-kumar"> suresh-s-kumar</a>
+                <a target="_blank" rel="noopener noreferrer" className="tab4" href="https://www.linkedin.com/in/suresh-s-kumar"> suresh-s-kumar</a>
                   </strong>
                 </li>
                 <li>
                   <strong>Portfolio:
-                <a target="_blank" className="tab4" href="https://s-suresh-kumar.github.io/responsivePortfolio/portfolio.html">  my-portfolio</a></strong>
+                <a target="_blank" rel="noopener noreferrer" className="tab4" href="https://s-suresh-kumar.github.io/responsivePortfolio/portfolio.html">  my-portfolio</a></strong>
                 </li>
                 <li className="mb-2 pb-2">
                   <strong>Resume:
-                <a target="_blank" className="tab4" href={process.env.PUBLIC_URL + "/assets/Resume-Suresh-Kumar-09-28-2020.pdf"}>  My resume</a></strong>
+                <a target="_blank" rel="noopener noreferrer" className="tab4" href={process.env.PUBLIC_URL + "/assets/Resume-Suresh-Kumar-09-28-2020.pdf"}>  My resume</a></strong>
                 </li>
               </ul>
             </div>
@@ -59,7 +59,7 @@ function About() {
         </Row>
         <Row>
           <Col size="md-12">
-            <img src={process.env.PUBLIC_URL + authorPic} className=" float-left myPic" alt="Author image" />
+            <img src={process.env.PUBLIC_URL + authorPic} className=" float-left myPic" alt="Suresh Kumar" />
             <p>
               I live in Cary, North Carolina. I am a natural problem solver. I
               like to add new features in existing products and software,
