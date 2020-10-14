@@ -1,24 +1,24 @@
 [
   {
     "id": 1,
-    "name": "Employee Directory",
+    "name": "My Portfolio",
+    "image": "/assets/thumbnails/my-portfolio-thumbnail.JPG",
+    "githubRepo": "https://github.com/s-suresh-kumar/my-react-portfolio",
+    "deployLink": "https://s-suresh-kumar.github.io/my-portfolio/"
+  },
+  {
+    "id": 2,
+    "name": "Workplace Directory",
     "image": "/assets/thumbnails/workplace-directory-thumbnail.jpg",
     "githubRepo": "https://github.com/s-suresh-kumar/workplace-directory",
     "deployLink": "https://s-suresh-kumar.github.io/workplace-directory/"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Fitness Tracker",
     "image": "/assets/thumbnails/fitness-tracker-thumbnail.jpg",
     "githubRepo": "https://github.com/s-suresh-kumar/fitnessTracker",
     "deployLink": "https://fast-ridge-87581.herokuapp.com/"
-  },
-  {
-    "id": 3,
-    "name": "Note Taker App",
-    "image": "/assets/thumbnails/note-taker-thumbnail.jpg",
-    "githubRepo": "https://github.com/s-suresh-kumar/noteTaker",
-    "deployLink": "https://agile-everglades-01445.herokuapp.com/"
   },
   {
     "id": 4,
@@ -29,10 +29,10 @@
   },
   {
     "id": 5,
-    "name": "My Portfolio",
-    "image": "/assets/thumbnails/my-portfolio-thumbnail.JPG",
-    "githubRepo": "https://github.com/s-suresh-kumar/my-react-portfolio",
-    "deployLink": "https://s-suresh-kumar.github.io/my-portfolio/"
+    "name": "Note Taker App",
+    "image": "/assets/thumbnails/note-taker-thumbnail.jpg",
+    "githubRepo": "https://github.com/s-suresh-kumar/noteTaker",
+    "deployLink": "https://agile-everglades-01445.herokuapp.com/"
   },
   {
     "id": 6,
