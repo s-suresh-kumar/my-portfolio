@@ -30,9 +30,9 @@
   {
     "id": 5,
     "name": "Art Via Music",
-    "image": "/assets/thumbnails/art-via-music-thumbnail.jpg",
-    "githubRepo": "https://github.com/s-suresh-kumar/ArtViaMusic",
-    "deployLink": "https://s-suresh-kumar.github.io/ArtViaMusic/"
+    "image": "/assets/thumbnails/my-portfolio-thumbnail.JPG",
+    "githubRepo": "https://github.com/s-suresh-kumar/my-react-portfolio",
+    "deployLink": "https://s-suresh-kumar.github.io/my-portfolio/"
   },
   {
     "id": 6,
