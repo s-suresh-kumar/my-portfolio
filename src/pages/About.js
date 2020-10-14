@@ -44,7 +44,7 @@ function About() {
                 </li>
                 <li className="mb-2 pb-2">
                   <strong>Resume:
-                <a target="_blank" className="tab4" href={process.env.PUBLIC_URL + "/assets/Resume-Suresh-Kumar-09-28-2020"}>  My resume</a></strong>
+                <a target="_blank" className="tab4" href={process.env.PUBLIC_URL + "/assets/Resume-Suresh-Kumar-09-28-2020.pdf"}>  My resume</a></strong>
                 </li>
               </ul>
             </div>
