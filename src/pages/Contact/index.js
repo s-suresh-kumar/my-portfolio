@@ -1,7 +1,7 @@
 import React from "react";
-import Wrapper from "../components/Wrapper";
-import Title from "../components/Title";
-import MyForm from "../components/MyForm";
+import Wrapper from "../../components/Wrapper";
+import Title from "../../components/Title";
+import MyForm from "../../components/MyForm";
 
 
 function Contact() {
