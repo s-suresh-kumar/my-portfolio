@@ -1,9 +1,9 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from "../components/Header";
-import Container from "../components/Container";
-import Row from "../components/Row";
-import Col from "../components/Col";
+import Header from "../../components/Header";
+import Container from "../../components/Container";
+import Row from "../../components/Row";
+import Col from "../../components/Col";
 import "./about.css"
 let imgName = "/assets/images/headerImage.jpeg";
 let authorPic = "/assets/images/Suresh_150.jpg"
