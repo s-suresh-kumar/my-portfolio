@@ -3,7 +3,7 @@ import React from 'react';
 import { HashRouter as Router, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import About from "./pages/About";
-import Portfolio from "./pages/Portfolio";
+import Portfolio from "./pages/Portfolio/Portfolio";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
 

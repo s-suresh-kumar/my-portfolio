@@ -1,8 +1,8 @@
 import React from "react";
-import Wrapper from "../components/Wrapper";
-import Title from "../components/Title";
-import Project from "../components/Project";
-import projects from "./data/projects.json";
+import Wrapper from "../../components/Wrapper";
+import Title from "../../components/Title";
+import Project from "../../components/Project";
+import projects from "../data/projects.json";
 
 class Portfolio extends React.Component {
   // Setting this.state.projects to the projects json array
