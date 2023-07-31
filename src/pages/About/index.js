@@ -6,7 +6,7 @@ import Row from "../../components/Row";
 import Col from "../../components/Col";
 import "./about.css"
 let imgName = "/assets/images/headerImage.jpeg";
-let authorPic = "/assets/images/Suresh_150.jpg"
+let authorPic = "/assets/images/Suresh_07_28_2023.jpg"
 
 
 function About() {
