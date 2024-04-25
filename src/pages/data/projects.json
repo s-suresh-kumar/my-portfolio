@@ -9,21 +9,21 @@
   {
     "id": 2,
     "name": "Workplace Directory",
-    "image": "/assets/thumbnails/workplace-directory-thumbnail.jpg",
+    "image": "/assets/thumbnails/workplace-directory-thumbnail.JPG",
     "githubRepo": "https://github.com/s-suresh-kumar/workplace-directory",
     "deployLink": "https://s-suresh-kumar.github.io/workplace-directory/"
   },
   {
     "id": 3,
     "name": "Fitness Tracker",
-    "image": "/assets/thumbnails/fitness-tracker-thumbnail.jpg",
+    "image": "/assets/thumbnails/fitness-tracker-thumbnail.JPG",
     "githubRepo": "https://github.com/s-suresh-kumar/fitnessTracker",
     "deployLink": "https://fast-ridge-87581.herokuapp.com/"
   },
   {
     "id": 4,
     "name": "Eat Da Burger",
-    "image": "/assets/thumbnails/eat-da-burger-thumbnail.jpg",
+    "image": "/assets/thumbnails/eat-da-burger-thumbnail.JPG",
     "githubRepo": "https://github.com/s-suresh-kumar/Eat-Da-Burger",
     "deployLink": "https://intense-hollows-80590.herokuapp.com/"
   },
